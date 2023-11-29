@@ -1,6 +1,7 @@
 {
-  "name": "landingpage-react-template",
-  "private": true,
+  "name": "simple-app",
+  "private": false,
+  "homepage": "https://Ruslan-Ts.github.io/simple-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
